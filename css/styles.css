@@ -14,10 +14,12 @@ img {
 
 .buttons {
   font-style: italic;
+  color: black;
 }
 
 .email {
   font-size: 16px;
+  color: #5e7d61	;
 }
 
 body {
@@ -25,5 +27,21 @@ body {
 }
 
 .name {
-  color: #ca8f42;  
+  color: #ca8f42;
 }
+
+.jumbocolor {
+  background: #E3AE0C;
+}
+
+.jumbocolor1 {
+  background: #CC9C0A;
+}
+
+.worklink {
+  color: #603336;
+}
+
+.introlinks {
+  color: #920000;
+  }
