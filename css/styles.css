@@ -4,8 +4,9 @@ h5 {
 
 img {
   float: left;
-  padding: 25px;
-}
+  padding: 30px;
+  padding-top: 5px;
+  }
 
 .verbage {
   color: #794044;
@@ -17,4 +18,8 @@ img {
 
 .email {
   font-size: 16px;
+}
+
+body {
+  background-color: #a17234
 }
