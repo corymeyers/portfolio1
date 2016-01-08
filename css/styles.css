@@ -4,6 +4,7 @@ h5 {
 
 img {
   float: left;
+  padding: 25px;
 }
 
 .verbage {
@@ -12,4 +13,8 @@ img {
 
 .buttons {
   font-style: italic;
+}
+
+.email {
+  font-size: 16px;
 }
